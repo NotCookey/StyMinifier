@@ -7,6 +7,4 @@ StyMinifier is an easy to use tool to minify or compress your python code as muc
 
 <br>
 
-> **Developed and Maintained By [Cookey](https://github.com/NotCookey)**
-
 <img src="https://emoji.discord.st/emojis/71e55437-62f7-40aa-b70c-33e839af80bb.gif" width=64px> 
